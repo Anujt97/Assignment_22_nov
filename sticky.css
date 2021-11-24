@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(117, 117, 117);
+}
+div.a {
+    font-size: 20px;
+    height: 30px;
+    position: sticky;
+    top: 0;
+    background-color: rgb(53, 52, 52);
+    color: whitesmoke;
+    opacity: 0.7;
+  }
+
+  div.b {
+    font-size: 20px;
+    height: 30px;
+    position: sticky;
+    top: 0;
+    background-color: rgb(53, 52, 52);
+    color: whitesmoke;
+    opacity: 0.7;
+  }
+  div.c {
+    font-size: 20px;
+    height: 30px;
+    position: sticky;
+    top: 0;
+    background-color: rgb(53, 52, 52);
+    color: whitesmoke;
+    opacity: 0.7;
+  }
+  div.d {
+    font-size: 20px;
+    height: 30px;
+    position: sticky;
+    top: 0;
+    background-color: rgb(53, 52, 52);
+    color: whitesmoke;
+    opacity: 0.7;
+  }
+  h6{
+      color: white;
+  }

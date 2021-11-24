@@ -1,0 +1,9 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    position: absolute;
+    margin: auto;
+    margin-top: 25%;
+    margin-left: 45%;
+}
